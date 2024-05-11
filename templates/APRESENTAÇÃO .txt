@@ -1,0 +1,4 @@
+APRESENTAÇÃO: 
+• Questionário criado com ajuda da Luri e Gemini. 
+• Código criado no aistudio. 
+• Testado no Colab.
